@@ -59,6 +59,8 @@ This is a simple decentralized lottery smart contract implemented in Solidity. T
 
 ## Usage
 
+Use [REMIX IDE](https://remix.ethereum.org/)
+
 1. Deploy the contract to a supported blockchain network.
 
 2. Interact with the contract using a web3-enabled application or script.
