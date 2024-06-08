@@ -1,4 +1,4 @@
-# Lottery Smart Contract
+# Lottery Smart Contract (Using Solidity)
 
 ## Overview
 
